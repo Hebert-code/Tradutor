@@ -2,6 +2,8 @@
 
 Um tradutor simples e eficiente utilizando React e a API do MyMemory para tradução de textos.
 
+<img src="https://github.com/user-attachments/assets/75170beb-5430-4942-a4c0-e1376c4d4271" alt="Image Example" width="1000px">
+
 ## 📌 Funcionalidades
 
 - 🔄 Seleção de idiomas para tradução  

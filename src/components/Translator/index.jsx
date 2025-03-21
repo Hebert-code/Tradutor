@@ -3,7 +3,7 @@ import { useState } from "react"
 import LanguageSelector from "../LanguageSelector"
 import TextArea from "../TextArea"
 import TranslationResult from "../TranslationResult"
-import InverterButton from "../inverterbutton"
+import InverterButton from "../InverterButton"
 import HeaderP from "../HeaderP"
 import FooterP from "../FooterP"
 

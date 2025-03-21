@@ -1,7 +1,7 @@
 import { useEffect } from "react"
 import { useState } from "react"
 import LanguageSelector from "../LanguageSelector"
-import TextArea from "../textArea"
+import TextArea from "../TextArea"
 import TranslationResult from "../TranslationResult"
 import InverterButton from "../inverterbutton"
 import HeaderP from "../HeaderP"
